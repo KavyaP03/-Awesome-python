@@ -5,5 +5,5 @@ print("The area of the circle with radius "+str(r)+" is:"+str(pi*r**2))
 
 #Task 2
 filename=input("Input the filename :")
-f_extens=filemane.split(".")
+f_extens=filename.split(".")
 print("The extension of the file is:"+repr(f_extens[-1]))
