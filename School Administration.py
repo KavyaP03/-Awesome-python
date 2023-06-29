@@ -18,4 +18,4 @@ if __name__=="__main__":
        elif condition_check=="no":
               condition =False
      elif choice_check=="no":
-          print("Please re-enter the correct information "
+          print("Please re-enter the correct information ")
